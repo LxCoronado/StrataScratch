@@ -2,6 +2,7 @@
 Exercise: Popularity of Hack
 URL: https://platform.stratascratch.com/coding-question?id=10061&python=
 */
+
 SELECT
 	location,
 	AVG(popularity)
